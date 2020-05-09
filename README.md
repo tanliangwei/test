@@ -1,5 +1,5 @@
 
-# t0t (special branch called test)
+# t0t (special branch called tost)
 
 # testing
 
